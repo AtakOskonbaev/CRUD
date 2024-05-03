@@ -16,6 +16,10 @@ void addTask(int id, string &description)
     tasks.emplace_back(next_id++, description);
 }
 
+void removeTask(int id)
+{
+    
+}
 
 int main()
 {
