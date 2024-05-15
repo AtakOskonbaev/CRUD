@@ -125,6 +125,7 @@ int main()
         }
         else if (command == "mark")
         {
+            displayTasks();
             cout << "Enter ID to mark/unmark: " << endl;
             cin >> id;
             markTask(id - 1);
