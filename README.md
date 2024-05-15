@@ -15,7 +15,7 @@ Task Manager is a simple and intuitive application to manage your daily tasks an
 - **Load from File:** Load tasks from a previously saved file.
 - **Exit:** Safely exit the application, ensuring all data is saved.
 
-Quick demonstration:
+### Quick demonstration:
 
 ![Screenshot 2024-05-16 012332](https://github.com/AtakOskonbaev/CRUD/assets/114912878/3d727233-c12c-4f0d-a705-e38a46065617)
 ![Screenshot 2024-05-16 012352](https://github.com/AtakOskonbaev/CRUD/assets/114912878/6b519146-a48e-4cbc-93a1-0d35a4b253dd)
@@ -27,3 +27,29 @@ after creating a file we should save it:
 and here is the result in the file:
 
 ![Screenshot 2024-05-16 012423](https://github.com/AtakOskonbaev/CRUD/assets/114912878/f535382b-eaaa-4bf8-a9a9-b28b5d8016c4)
+
+### Functional Requirements
+
+1. **Task Management:**
+   - Add new tasks with a title and description.
+   - Edit existing tasks.
+   - Delete tasks that are no longer needed.
+   - Mark tasks as complete or incomplete
+
+2. **Data Management:**
+   - Save tasks to a file.
+   - Load tasks from a file.
+   - Ensure data persistence across application sessions.
+
+3. **User Interface:**
+   - Display tasks in a list format.
+   - Provide an intuitive and user-friendly interface.
+   - Implement search functionality to find tasks easily.
+
+4. **Categorization and Organization:**
+   - Allow users to categorize tasks.
+   - Support organizing tasks into projects or groups.
+
+5. **Application Control:**
+   - Provide an option to safely exit the application.
+   - Ensure all data is saved before exiting.
