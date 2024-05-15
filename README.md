@@ -31,7 +31,7 @@ and here is the result in the file:
 ### Functional Requirements
 
 1. **Task Management:**
-   - Add new tasks with a title and description.
+   - Add new tasks with a description.
    - Edit existing tasks.
    - Delete tasks that are no longer needed.
    - Mark tasks as complete or incomplete
@@ -39,17 +39,13 @@ and here is the result in the file:
 2. **Data Management:**
    - Save tasks to a file.
    - Load tasks from a file.
-   - Ensure data persistence across application sessions.
 
 3. **User Interface:**
    - Display tasks in a list format.
    - Provide an intuitive and user-friendly interface.
-   - Implement search functionality to find tasks easily.
 
-4. **Categorization and Organization:**
-   - Allow users to categorize tasks.
-   - Support organizing tasks into projects or groups.
-
-5. **Application Control:**
+4. **Application Control:**
    - Provide an option to safely exit the application.
    - Ensure all data is saved before exiting.
+
+Those are requirements that were implemented in project.
