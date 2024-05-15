@@ -1,5 +1,3 @@
-![Screenshot 2024-05-16 012423](https://github.com/AtakOskonbaev/CRUD/assets/114912878/7456c318-44d2-4220-aa26-22c21495c71e)#Task Manager
-
 ##Task Manager
 
 Task Manager is a simple and intuitive application to manage your daily tasks and to-do lists. It helps you stay organized and increase your productivity by keeping track of all your tasks in one place.
