@@ -26,7 +26,10 @@ after creating a file we should save it:
 
 and here is the result in the file:
 
-![Screenshot 2024-05-16 012423](https://github.com/AtakOskonbaev/CRUD/assets/114912878/f535382b-eaaa-4bf8-a9a9-b28b5d8016c4)
+![image](https://github.com/AtakOskonbaev/CRUD/assets/114912878/930d9470-ce88-4a48-b7bc-108699514d80)
+
+the first number is ID of task and the second is whether it was completed or not (0 for false and 1 for true)
+
 
 ### Functional Requirements
 
