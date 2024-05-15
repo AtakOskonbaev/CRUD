@@ -1,8 +1,10 @@
-##Task Manager
+# Task Manager
+
+## Task Manager
 
 Task Manager is a simple and intuitive application to manage your daily tasks and to-do lists. It helps you stay organized and increase your productivity by keeping track of all your tasks in one place.
 
-##Features
+## Features
 
 - **Add Tasks:** Quickly add new tasks with a description.
 - **Edit Tasks:** Modify existing tasks as your plans change.
