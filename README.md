@@ -52,3 +52,6 @@ the first number is ID of task and the second is whether it was completed or not
    - Ensure all data is saved before exiting.
 
 Those are requirements that were implemented in project.
+
+presentation:
+https://www.canva.com/design/DAGFVW9lU5U/DXlJRxkpk5mwZydqfbN6Wg/edit?utm_content=DAGFVW9lU5U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
